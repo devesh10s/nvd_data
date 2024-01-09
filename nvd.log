@@ -1,0 +1,55 @@
+test
+/bin/sh: 1: /home/devesh/nvd/nvd.sh: Permission denied
+/bin/sh: 1: /home/devesh/nvd/nvd.sh: Permission denied
+/bin/sh: 1: /home/devesh/nvd/nvd.sh: Permission denied
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/bin/bash: warning: shell level (1000) too high, resetting to 1
+/home/devesh/nvd/nvd.sh: fork: retry: Resource temporarily unavailable
+/home/devesh/nvd/nvd.sh: fork: retry: Resource temporarily unavailable
+/home/devesh/nvd/nvd.sh: fork: retry: Resource temporarily unavailable
+/home/devesh/nvd/nvd.sh: fork: retry: Resource temporarily unavailable
+/home/devesh/nvd/nvd.sh: fork: Resource temporarily unavailable
+worked
+worked
+worked
+worked
+worked
+worked
+worked
+worked
