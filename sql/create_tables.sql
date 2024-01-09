@@ -1,0 +1,20 @@
+CREATE TABLE nvd_cves(
+    id bigserial PRIMARY KEY,
+    cve_id TEXT,
+    published TEXT,
+    lastModified TEXT,
+    vulnStatus TEXT,
+    descriptions TEXT,
+    metrics TEXT,
+    weaknesses TEXT,
+    configurations TEXT,
+    reference TEXT,
+    cpe_string TEXT,
+    baseScore bigint,
+    baseSeverity TEXT,
+    exploitabilityScore bigint,
+    impactScore bigint,
+    versionStartIncluding TEXT,
+    versionEndExcluding TEXT,
+    versionEndIncluding TEXT
+);
