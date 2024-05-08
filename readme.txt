@@ -1,3 +1,5 @@
+https://github.com/fleetdm/nvd/releases
+
 https://github.com/devesh10s/nvd_data.git
 
 cd nvd_data
